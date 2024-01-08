@@ -1,0 +1,24 @@
+{
+  "forms": [
+    {
+      "platform": "LinkedIn",
+      "link": "https://linkedin.com/in/oladayo-ajibola",
+      "icon": "",
+      "id": 1
+    },
+    {
+      "platform": "GitHub",
+      "link": "https://deebabatech.github.io/Dee-Portfolio/",
+      "icon": "",
+      "id": 2
+    }
+  ],
+  "profile": [
+    {
+      "firstName": "Oladayo",
+      "lastName": "Ajibola",
+      "email": "dee1dayo4real@gmail.com",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: whitesmoke;
+}
+
+* {
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+/* Hide scroll bar in chrome  */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.GitHub,
+.Twitter {
+    background-color: black;
+}
+
+.LinkedIn {
+    background-color: blue;
+}
+
+.YouTube {
+    background-color: red;
+}
